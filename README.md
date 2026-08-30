@@ -13,5 +13,5 @@ A simple calculator I built while learning the basics of Java, using the Java Sw
 2 - Open your terminal or cmd and then execute the program:
 
 ```sh
-  java -jar SwingCalculator-1.0-SNAPSHOT.jar
+java -jar SwingCalculator-1.0-SNAPSHOT.jar
 ```
