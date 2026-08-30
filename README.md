@@ -6,7 +6,7 @@ A simple calculator I built while learning the basics of Java, using the Java Sw
 
 1 - Jdk or Jre 17+
 
-##Installation
+## Installation
 
 1 - You need to install the jar file in target/ folder.
 
