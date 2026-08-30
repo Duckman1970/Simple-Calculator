@@ -4,7 +4,7 @@ A simple calculator I built while learning the basics of Java, using the Java Sw
 
 ## Requirements
 
-1 - Jdk or Jre 17+
+- Jdk or Jre 17+
 
 ## Installation
 
