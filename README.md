@@ -8,4 +8,10 @@ A simple calculator I built while learning the basics of Java, using the Java Sw
 
 ##Installation
 
-1 - you need to install the jar file in 
+1 - You need to install the jar file in target/ folder.
+
+2 - Open your terminal or cmd and then execute the program:
+
+```sh
+  java -jar 
+```
