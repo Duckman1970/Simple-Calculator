@@ -18,6 +18,10 @@ java -jar SwingCalculator-1.0-SNAPSHOT.jar
 
 ## Examples
 
+![Simple Calculator](./Examples/Example1.png)
+![Simple Calculator](./Examples/Example2.png)
+![Simple Calculator](./Examples/Example3.gif)
+
 ## License
 
 This project is licensed under the MIT license
