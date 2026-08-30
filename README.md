@@ -17,3 +17,9 @@ java -jar SwingCalculator-1.0-SNAPSHOT.jar
 ```
 
 ## Screenshots
+
+## License
+
+This project is licensed under the MIT license
+
+- Read the [license](LICENSE) for more details
