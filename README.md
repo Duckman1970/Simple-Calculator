@@ -15,3 +15,5 @@ A simple calculator I built while learning the basics of Java, using the Java Sw
 ```sh
 java -jar SwingCalculator-1.0-SNAPSHOT.jar
 ```
+
+## Screenshots
