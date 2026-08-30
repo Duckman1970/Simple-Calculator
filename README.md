@@ -16,12 +16,8 @@ A simple calculator I built while learning the basics of Java, using the Java Sw
 java -jar SwingCalculator-1.0-SNAPSHOT.jar
 ```
 
-## Examples
+## Example
 
-![Simple Calculator](./Examples/Example1.jpg)
-<br>
-![Simple Calculator](./Examples/Example2.jpg)
-<br>
 ![Simple Calculator](./Examples/Example3.gif)
 
 ## License
