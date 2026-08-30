@@ -18,7 +18,9 @@ java -jar SwingCalculator-1.0-SNAPSHOT.jar
 
 ## Examples
 
-![Simple Calculator](./Examples/Example1.png)
+![Simple Calculator](./Examples/Example1.jpg)
+![Simple Calculator](./Examples/Example2.jpg)
+![Simple Calculator](./Examples/Example3.gif)
 
 ## License
 
